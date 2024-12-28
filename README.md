@@ -7,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallabisneha&label=Profile%20views&color=0e75b6&style=flat" alt="pallabisneha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mpallabi222" target="blank"><img src="https://img.shields.io/twitter/follow/mpallabi222?logo=twitter&style=for-the-badge" alt="mpallabi222" /></a> </p>
-- 🔭 I’m currently studying ** Computer science **
+
+- 🔭 I’m currently studying **Computer science**
 
 - 🌱 I’m diving into **Web Development: Enhancing my skills in modern frameworks like React and Next.js and API Development: Experimenting with Flask, Django.**
 
