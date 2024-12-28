@@ -27,7 +27,7 @@
 <a href="https://instagram.com/pallabis_art_world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallabis_art_world" height="30" width="40" /></a>
 <a href="https://youtube.com/@pallabisartworld?si=DOgbNzfFZfnMNKfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pallabisartworld" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pallabimondal_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pallabimondal_2" height="30" width="40" /></a>
-<a href="https://discord.gg/Pallabi Mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pallabi Mondal" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pallabi Mondal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
