@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mpallabi222" target="blank"><img src="https://img.shields.io/twitter/follow/mpallabi222?logo=twitter&style=for-the-badge" alt="mpallabi222" /></a> </p>
 
-- 🌱 I’m diving into **Web Development: Enhancing my skills in modern frameworks like React and Next.js, API Development: Experimenting with Flask, Django.**
+- 🌱 I’m diving into **Web Development: Enhancing my skills in modern frameworks like React and Next.js and API Development: Experimenting with Flask, Django.**
 
 - 🌱 I’m currently persuing **a Bachelor of Computer Applications (BCA)**
 
@@ -23,9 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mpallabi222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mpallabi222" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pallabi mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallabi mondal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pallabi-mondal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pallabi-mondal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/pallabis_art_world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallabis_art_world" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@pallabi's art world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pallabi's art world" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@pallabisartworld?si=dogbnzffzfnmnkfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pallabisartworld?si=dogbnzffzfnmnkfj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pallabimondal_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pallabimondal_2" height="30" width="40" /></a>
 <a href="https://discord.gg/Pallabi Mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pallabi Mondal" height="30" width="40" /></a>
 </p>
