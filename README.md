@@ -41,5 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallabisneha&" alt="pallabisneha" /></p>
 
-![](https://leetcard.jacoblin.cool/Pallabimondal_2?ext=heatmap)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Pallabimondal_2?ext=contest)
